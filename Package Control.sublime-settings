@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"A File Icon",
+		"All Autocomplete",
+		"Angular 2 Snippets (John Papa)",
+		"ayu",
+		"DocBlockr",
+		"Emmet",
+		"FuzzyFilePath",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Nodejs",
+		"Package Control",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-tslint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"Terminal",
+		"Tomorrow Color Schemes",
+		"TypeScript"
+	]
+}

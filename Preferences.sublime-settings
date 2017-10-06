@@ -1,0 +1,24 @@
+{
+	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
+	"command": "reset_font_size",
+	"enable_tab_scrolling": false,
+	"font_face": "Hack",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"keys":
+	[
+		"super+0"
+	],
+	"mouse_wheel_tabswitch": true,
+	"tab_size": 2,
+	"theme": "ayu-dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"ui_big_tabs": true,
+	"ui_fix_tab_labels": true,
+	"ui_font_source_code_pro": true,
+	"ui_separator": true,
+	"ui_wide_scrollbars": true
+}
